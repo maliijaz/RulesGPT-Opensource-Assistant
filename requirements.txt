@@ -1,0 +1,4 @@
+transformers
+llama-index
+accelerate
+llama_index-embeddings-huggingface
